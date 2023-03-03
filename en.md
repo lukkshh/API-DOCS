@@ -15,6 +15,15 @@ Lukkshh Quotes is a free, open source quotations API. I Built It For Fun While L
 - Georgian Quotes
 - You Also Can Add Your Quotes To My Quotes List ! [Click Here](https://lukkshh.ga/quotes/add)
 
+## Status Codes
+
+| Status | Http Code     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Ok` | `200` |  Success           |
+| `NO_API_KEY` | `401` |  Api Key Missing           |
+| `INCCORECT_API_KEY` | `401` |  Incorrect API Key |
+| `NO_LANGUAGE_SELECTED` | `404` | Language Is Not Selected |
+
 ## Get Quote 
 
 ```http
