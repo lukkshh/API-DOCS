@@ -45,9 +45,7 @@ GET https://lukkshh.ga/quotes/api/?API_KEY=KEY&LANG=LANG
 ```javascript
 const API_KEY = 'API';
 const LANG = 'ENG';
-```
 
-```javascript
 fetch(`https://lukkshh.ga/quotes/api/?API_KEY=${API_KEY}&LANG=${LANG}`)
   .then((response) => response.json())
   .then((data) => console.log(data));
