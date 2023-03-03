@@ -13,6 +13,7 @@ Lukkshh Quotes is a free, open source quotations API. I Built It For Fun While L
 
 - English Quotes
 - Georgian Quotes
+- Get Api Key [Here !](https://lukkshh.ga/quotes/api/key)
 - You Also Can Add Your Quotes To My Quotes List ! [Click Here](https://lukkshh.ga/quotes/add)
 
 ## Status Codes
